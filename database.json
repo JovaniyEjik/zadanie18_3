@@ -15,24 +15,6 @@
     {
       "name": "Jack",
       "comment": "lorem lorem lorem"
-    },
-    {
-      "id": "2",
-      "name": "roma",
-      "age": "15",
-      "gender": "male"
-    },
-    {
-      "id": "1",
-      "name": "artem",
-      "age": "16",
-      "gender": "male"
-    },
-    {
-      "id": "4",
-      "name": "artem",
-      "age": "16",
-      "gender": "male"
     }
   ]
 }
